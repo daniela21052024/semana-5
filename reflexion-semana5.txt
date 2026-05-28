@@ -1,0 +1,9 @@
+Para mí, las APIs son importantes porque permiten que diferentes aplicaciones 
+compartan información de manera rápida y organizada. Gracias a ellas, una 
+comunidad puede enviar reportes, noticias o alertas en tiempo real de forma 
+más sencilla. Considero que esto ayuda a mantener informadas a las personas 
+sobre problemas o situaciones importantes en su entorno. Además, las APIs 
+facilitan que la información llegue de manera clara y ordenada a diferentes 
+plataformas. También pienso que mejoran la participación de la comunidad, ya 
+que las personas pueden comunicarse y colaborar más fácilmente. Por eso creo 
+que las APIs ayudan a construir comunidades más conectadas y organizadas.

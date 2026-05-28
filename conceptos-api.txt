@@ -1,0 +1,14 @@
+°La ruta POST /reporte sirve para recibir información enviada por un usuario 
+hacia el servidor. Generalmente se utiliza para guardar datos, como formularios,
+reportes o registros dentro de una aplicación. A diferencia de una ruta GET, 
+esta no se usa para consultar información directamente desde el navegador, sino 
+para enviar datos mediante herramientas como Postman, Thunder Client o código 
+JavaScript.
+
+En una aplicación comunitaria, esta ruta podría servir para que las personas 
+reporten problemas de su barrio o comunidad, por ejemplo daños en las calles, 
+fallas en servicios públicos o situaciones de seguridad. También permitiría 
+almacenar comentarios, solicitudes o información importante enviada por los 
+usuarios. Considero que este tipo de rutas son muy útiles porque facilitan la 
+comunicación entre la comunidad y la plataforma digital de manera organizada 
+y rápida.
